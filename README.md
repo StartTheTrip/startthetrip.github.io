@@ -1,1 +1,1 @@
-# startthetrip.github.io
+Welcome, to my blog. Content includes security, audio and software development related projects and notes. Start ([here](https://startthetrip.github.io)).

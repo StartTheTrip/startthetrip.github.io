@@ -1,0 +1,54 @@
+name: StartTheTrip's Blog
+
+description: Security tools, audio and software development
+
+avatar: https://avatars1.githubusercontent.com/u/13262796?v=2&s=460
+
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: startthetrip/blog
+  instagram:
+  linkedin:
+  pinterest:
+  rss: startthetrip
+  twitter: 
+  stackoverflow:
+  youtube:
+  googleplus:
+
+
+disqus:
+
+google_analytics:
+
+url: http://startthetrip.github.io
+
+baseurl: ""
+
+permalink: /:title/
+
+#Jekyll version
+version: v4.3.3
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded 
+
+gems:
+  - jekyll-sitemap 
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
