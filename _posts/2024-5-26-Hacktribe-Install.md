@@ -34,6 +34,6 @@ Requirements: Electribe 2 Sampler (v2.02), Ubuntu, SD Card<br>
 17: Power on the Electribe and Hacktribe firmware will boot.<br>
 <br>
 <br>
-If you use the Hacktribe please consider donating to <a href="https://liberapay.com/bangcorrupt">Bangcorrupt</a> who created the firmware.<br>
-Original repository link is available <a href="https://github.com/bangcorrupt/hacktribe">here</a>.<br>
+If you use the Hacktribe please consider donating to <a href="https://liberapay.com/bangcorrupt">Bangcorrupt</a> who created the firmware.<br><br>
+Original repository link is available <a href="https://github.com/bangcorrupt/hacktribe">here</a>.<br><br>
 Tag: Audio, Electribe, Hacktribe
