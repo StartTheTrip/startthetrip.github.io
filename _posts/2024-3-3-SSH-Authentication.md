@@ -1,6 +1,9 @@
 ---
 layout: post
 title: SSH Authentication
+tags:
+- Security
+- SSH
 ---
 
 ## Windows 10 ##

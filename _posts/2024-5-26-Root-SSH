@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Root SSH Certificate
+tags:
+- Security
+- SSH
 ---
 
 After gaining access to an endpoint use the following script to install a root ssh certificate.
