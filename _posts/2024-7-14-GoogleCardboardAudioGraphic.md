@@ -7,5 +7,5 @@ tags:
 - Virtual Reality
 ---
 
-Audio player with 3D Graphic for Google Cardboard: <a href="https://github.com/StartTheTrip/Android-Cardboard-Audio-Graphics-Display/">Azure</a>.<br><br>
+Audio player with 3D Graphic for Google Cardboard: <a href="https://github.com/StartTheTrip/Android-Cardboard-Audio-Graphics-Display/">here</a>.<br><br>
 Tags: Google Cardboard, Java, Virtual Reality
